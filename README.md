@@ -24,13 +24,13 @@ The project consist of several functionalities including reading shoe data from 
 The project is fairly simple and easy to use. Once all the installation is done. Simply navigate to a project folder either from your IDE or command Prompt.
 If using command prompt, type python followed by the file name ie, > python inventory.py to execute the file and if using IDE simply click the run button on your IDE. 
 - After running, the program provides you with a lists of menu to select from. To read a file from a computer simply enter 'r'(make sure you do have a file to read the inventory data on the same folder).
-![File read](https://github.com/4rr0wh34d/final_capstone/tree/main/read_file.jpg?raw=true "File Read")
-- To capture data from user simply follow the prompt and enter the details to be provided.![Alt text](https://github.com/4rr0wh34d/final_capstone/tree/main/capture.jpg?raw=true "Capture Input")
-- To view a list of inventory simply type 'v' and enter.![Alt text](https://github.com/4rr0wh34d/final_capstone/tree/main/view_file.jpg?raw=true "view file")
-- To restock shoe inventory simple enter 'rs'.![Alt text](https://github.com/4rr0wh34d/final_capstone/tree/main/restock.jpg?raw=true "Restock")
-- Enter 's' to search for the shoe. ![Alt text](https://github.com/4rr0wh34d/final_capstone/tree/main/search_shoe.jpg?raw=true "Search shoe")
-- To find the total value of each shoe enter 'tv'. ![Alt text](https://github.com/4rr0wh34d/final_capstone/tree/main/read_file.jpg?raw=true "total value")
-- Finally enter 'hq' to get the highest quantity shoe.![Alt text](https://github.com/4rr0wh34d/final_capstone/tree/main/read_file.jpg?raw=true "higest qty")
+![File read](https://github.com/4rr0wh34d/final_capstone/tree/main/read_file.jpg?raw=true)
+- To capture data from user simply follow the prompt and enter the details to be provided.![Capture Input](https://github.com/4rr0wh34d/final_capstone/tree/main/capture.jpg?raw=true)
+- To view a list of inventory simply type 'v' and enter.![view All](https://github.com/4rr0wh34d/final_capstone/tree/main/view_file.jpg?raw=true)
+- To restock shoe inventory simple enter 'rs'.![Search shoe](https://github.com/4rr0wh34d/final_capstone/tree/main/restock.jpg?raw=true)
+- Enter 's' to search for the shoe. ![Search Shoe](https://github.com/4rr0wh34d/final_capstone/tree/main/search_shoe.jpg?raw=true)
+- To find the total value of each shoe enter 'tv'. ![Total Value](https://github.com/4rr0wh34d/final_capstone/tree/main/read_file.jpg?raw=true)
+- Finally enter 'hq' to get the highest quantity shoe.![Highest quantity](https://github.com/4rr0wh34d/final_capstone/tree/main/read_file.jpg?raw=true)
 
 ## Credits
 Thanks to the lecturer,mentor and whole of hyperiondev team without whom this project would not have been possible.

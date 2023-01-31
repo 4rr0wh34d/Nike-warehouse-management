@@ -13,5 +13,7 @@ Installation:
 
 Usage:
 The project is fairly simple and easy to use. Once all the installation is done. Simply navigate to a project folder either from your IDE or command Prompt.
-If using command prompt, type python followed by the file name ie, > python inventory.py to execute the file and if using IDE simply click the run button on your IDE. After running, the program provides you with a lists of menu to select from. To read a file from a computer simply enter 'r'(make sure you do have a file to read the inventory data on the same folder).
-![Alt text](https://github.com/4rr0wh34d/final_capstone/tree/master/main_menu.jpg?raw=true)
+If using command prompt, type python followed by the file name ie, > python inventory.py to execute the file and if using IDE simply click the run button on your IDE. 
+- After running, the program provides you with a lists of menu to select from. To read a file from a computer simply enter 'r'(make sure you do have a file to read the inventory data on the same folder).
+![Alt text](https://github.com/4rr0wh34d/final_capstone/tree/master/main_menu.jpg?raw=true "File Read Screenshot")
+- To capture data from user simply follow the prompt and enter the details to be provided.

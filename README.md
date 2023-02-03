@@ -48,11 +48,21 @@ If using command prompt, type python followed by the file name ie, > python inve
 - To capture data from user simply follow the prompt and enter the details to be provided.
  
 ![Capture Input](/capture.jpg)
-- To view a list of inventory simply type 'v' and enter.![view All](/view_file.jpg)
-- To restock shoe inventory simple enter 'rs'.![Search shoe](/restock.jpg)
-- Enter 's' to search for the shoe. ![Search Shoe](/search_shoe.jpg)
-- To find the total value of each shoe enter 'tv'. ![Total Value](/read_file.jpg)
-- Finally enter 'hq' to get the highest quantity shoe.![Highest quantity](/read_file.jpg)
+- To view a list of inventory simply type 'v' and enter.
+ 
+![view All](/view_file.jpg)
+- To restock shoe inventory simple enter 'rs'.
+ 
+![Search shoe](/restock.jpg)
+- Enter 's' to search for the shoe.
+
+![Search Shoe](/search_shoe.jpg)
+- To find the total value of each shoe enter 'tv'.
+ 
+![Total Value](/read_file.jpg)
+- Finally enter 'hq' to get the highest quantity shoe.
+ 
+![Highest quantity](/read_file.jpg)
 
 ## Credits
 Thanks to the lecturer,mentor and whole of hyperiondev team without whom this project would not have been possible.

@@ -24,6 +24,7 @@ The project consist of several functionalities including reading shoe data from 
 ### For Linux:
 Normally python comes bundled with linux. To check if python is installed on your system. Just open up your terminal and type
 `python --version`
+
 If python is not installed then follow the commands below
 `sudo apt-get update && apt-get upgrade -y
 sudo apt-get install python3

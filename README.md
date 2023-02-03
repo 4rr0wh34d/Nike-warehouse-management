@@ -17,20 +17,20 @@ The project consist of several functionalities including reading shoe data from 
 ## Installation:
 ### For windows:
 1. Firstly download and install a python interpreter from https://www.python.org/downloads/ . Select the correct OS before downloading.
-2. Open up the command prompt and navigate to project folder and install the module name Tabulate using command  : 'pip install modulate' 
+2. Open up the command prompt and navigate to project folder and install the module name Tabulate using command  : `pip install modulate` 
    - Make sure to install pip first by downloading 'get-pip.py' files from https://bootstrap.pypa.io/get-pip.py 
-   - open up command prompt and navigate to the folder where the above file is downloaded and run the command : 'python get-pip.py'
-3. Finally run the command 'python inventory.py'
+   - open up command prompt and navigate to the folder where the above file is downloaded and run the command : `python get-pip.py`
+3. Finally run the command `python inventory.py`
 ### For Linux:
 Normally python comes bundled with linux. To check if python is installed on your system. Just open up your terminal and type
-'python --version'
+`python --version`
 If python is not installed then follow the commands below
-'apt-get update && apt-get upgrade -y'
-'apt-get install python3'
-'apt-get install python3-pip'
-'pip3 install modulate'
+`sudo apt-get update && apt-get upgrade -y
+sudo apt-get install python3
+sudo apt-get install python3-pip
+sudo pip3 install modulate`
 Finally navigate to the file folder and type
-'python inventory.py'
+`sudo python inventory.py`
 
 
 ## Usage:

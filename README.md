@@ -26,6 +26,7 @@ Normally python comes bundled with linux. To check if python is installed on you
 `python --version`
 
 If python is not installed then follow the commands below
+
 `sudo apt-get update && apt-get upgrade -y
 sudo apt-get install python3
 sudo apt-get install python3-pip

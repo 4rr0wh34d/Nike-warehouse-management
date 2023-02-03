@@ -25,7 +25,7 @@ The project consist of several functionalities including reading shoe data from 
 Normally python comes bundled with linux. To check if python is installed on your system. Just open up your terminal and type
 `python --version`
 
-If python is not installed then follow the commands below
+If python is not installed then follow the commands below to install python, pip and modulate module.
 
 ```
 sudo apt-get update && apt-get upgrade -y

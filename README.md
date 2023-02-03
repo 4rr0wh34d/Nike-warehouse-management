@@ -27,10 +27,11 @@ Normally python comes bundled with linux. To check if python is installed on you
 
 If python is not installed then follow the commands below
 
-`sudo apt-get update && apt-get upgrade -y
-sudo apt-get install python3
-sudo apt-get install python3-pip
-sudo pip3 install modulate`
+`sudo apt-get update && apt-get upgrade -y`
+`sudo apt-get install python3`
+`sudo apt-get install python3-pip`
+`sudo pip3 install modulate`
+
 Finally navigate to the file folder and type
 `sudo python inventory.py`
 

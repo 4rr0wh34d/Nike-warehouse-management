@@ -44,10 +44,10 @@ The project is fairly simple and easy to use. Once all the installation is done.
 If using command prompt, type python followed by the file name ie, > python inventory.py to execute the file and if using IDE simply click the run button on your IDE. 
 - After running, the program provides you with a lists of menu to select from. To read a file from a computer simply enter 'r'(make sure you do have a file to read the inventory data on the same folder).
 
-![File read](/../images/read_file.jpg)
+![File read](/images/read_file.jpg)
 - To capture data from user simply follow the prompt and enter the details to be provided.
  
-![Capture Input](/../images/capture.jpg)
+![Capture Input](../images/capture.jpg)
 - To view a list of inventory simply type 'v' and enter.
  
 ![view All](/../images/view_file.jpg)

@@ -65,4 +65,4 @@ If using command prompt, type python followed by the file name ie, > python inve
 ![Highest quantity](/images/read_file.jpg)
 
 ## Credits
-Thanks to the lecturer,mentor and whole of hyperiondev team without whom this project would not have been possible.
+Thanks to the lecturers,mentor and whole of hyperiondev team without whom this project would not have been possible.

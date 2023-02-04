@@ -8,7 +8,7 @@
 - Credits
 
 ## Project name :
-inventory.py
+[inventory.py](/../master/inventory.py)
 
 ## Description :
 This project is a warehouse management system for Nike sporting company. It allows the user to manage the warehouse efficiently and saves delivery time.
